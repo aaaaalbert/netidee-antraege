@@ -1,9 +1,9 @@
 Stipendien-Antragsformular 2018
 
 # 1. Daten Antragsteller_in
+> Anrede, Name, Zustelladresse, Email, Telefon
 
 # 2. Studiendaten und Allgemeines zur wissenschaftlichen Arbeit
-> Anrede, Name, Zustelladresse, Email, Telefon
 
 ## 2.1 Name der Hochschule/Fachhochschule etc.
 > (100 Zeichen übrig)
