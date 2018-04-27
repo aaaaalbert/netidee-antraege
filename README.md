@@ -11,8 +11,8 @@ Ich sammle die Fragen hier nur zur leichteren Zugänglichkeit.
 
 ## Fragenkataloge Mai 2018
 
-* [Stipendium](2018-stipendium.md)
-* TODO: Projekt
+* [2018 Stipendium](2018-stipendium.md)
+* [2018 Projekt](2018-projekt.md)
 
 
 # Disclaimer
