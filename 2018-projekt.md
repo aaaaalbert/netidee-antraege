@@ -211,7 +211,7 @@ Falls ja:
 > 
 > 500 Zeichen übrig
 
-#ä 7.2 Welche andere Lösungen/Vorhaben zu den genannten Problemen gibt es schon?
+## 7.2 Welche andere Lösungen/Vorhaben zu den genannten Problemen gibt es schon?
 > Welche Produkte, Dienstleistungen, Vorhaben/Projekte gibt es gemäß Ihrer Recherche ganz **konkret** von Anderen in Hinblick auf die von Ihnen angegebenen Probleme/Projektziele ?
 > 
 > Nennen Sie die wesentlichen Quellen ihrer Recherche (Websites, ...) und beschreiben Sie die Stärken und Schwächen der Lösungen /konkurrierenden Konzepte relevanter Anbieter/Projekte?
