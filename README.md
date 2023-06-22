@@ -1,18 +1,17 @@
 # netidee-Anträge
  
-In den verlinkten Dokumenten folgen die zu beantwortenden Fragen für eine
-netidee-Antrag (Projekt, Stipendium, ...), vergleiche
+In den verlinkten Dokumenten folgen die zu beantwortenden Fragen für einen
+netidee-Antrag (Projekt), vergleiche
 * https://www.netidee.at/einreichen/projekt
 * https://antrag.netidee.at
-* https://antrag.netidee.at/group/3 (nach Login)
+* https://antrag.netidee.at/projekt-call-2023 (nach Login)
 
 Die Anträge müssen über netidees Antragsplattform eingereicht werden.
 Ich sammle die Fragen hier nur zur leichteren Zugänglichkeit.
 
-## Fragenkataloge Mai 2018
+## Fragenkatalog
 
-* [2018 Stipendium](2018-stipendium.md)
-* [2018 Projekt](2018-projekt.md)
+...siehe separate Datei(en) in diesem Repo!
 
 
 # Disclaimer
@@ -28,5 +27,5 @@ einholen.
 
 # Historische Antragsformulare
 
-* [2017 Projekt](2017-projekt.md)
+...gibt es in einem anderen Branch dieses Repos. Bitte dort nachschauen.
 
