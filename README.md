@@ -4,7 +4,6 @@ In den verlinkten Dokumenten folgen die zu beantwortenden Fragen für einen
 netidee-Antrag (Projekt), vergleiche
 * https://www.netidee.at/einreichen/projekt
 * https://antrag.netidee.at
-* https://antrag.netidee.at/projekt-call-2023 (nach Login)
 
 Die Anträge müssen über netidees Antragsplattform eingereicht werden.
 Ich sammle die Fragen hier nur zur leichteren Zugänglichkeit.
